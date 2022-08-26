@@ -1,0 +1,345 @@
+#amir{
+    width:50%;
+    height:291%;
+    background-color: white;
+    margin: 0vh auto 0;
+}
+#ali{
+    width: 100%;
+    height: 250px;
+    position:static;
+}
+#mamad{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10 5 10 5;
+    position: absolute;
+    margin-left: -550px;
+    margin-top: 200px;
+}
+#mamad:hover{
+    background-color:darkcyan;
+}
+.tata{
+    margin: 3vh auto 0;
+    text-align: center;
+}
+.jj{
+    width: 100px;
+    height: 130px;
+    background-color: white;
+    text-align: center;
+    margin: 3vh auto 0;
+    position: absolute;
+}
+#pes{
+    margin: 3vh auto 0;
+    width: 90%;
+    height: 200px;
+    background-color: white;
+}
+.konami{
+    margin-top: 10px;
+}
+.mes:hover{
+    opacity: 0.5;
+}
+#poori{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    margin-top: 25px;
+}
+#dadada{
+    position:absolute;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 280px;
+    width: 120px;
+    background-color: black;
+    color: white;
+}
+#das{
+    position: absolute;
+    width: 140px;
+    height: 280px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 415px;
+}
+#tabar{
+    position: absolute;
+    width: 140px;
+    height: 280px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 271px;
+}
+#apg{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: darkcyan;
+    color: white;
+    position: absolute;
+    text-align: center;
+    margin-top: 290px;
+    margin-left: 530px;
+}
+#rpg{
+    padding: 10 10 10 10;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -14px;
+}
+#mikh{
+    position: absolute;
+    width: 140px;
+    height: 280px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 127px;
+}
+#bahram{
+    margin-top: 25px;
+    width: 100%;
+    height: 420px;
+    background-color: white;
+    text-align: center;
+}
+.he{
+    width: 15%;
+    height: 340px;
+    background-color: white;
+    position: absolute;
+    border-style: solid;
+    border-width: 2px;
+    border-color:darkgrey;
+}
+.he:hover{
+    box-shadow: 0px 0px 10px 5px darkgray;
+}
+#mj{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 50px;
+}
+#ol{
+    color: gray;
+    margin-top: -20px;
+}
+#rr{
+    width: 100%;
+    height: 45px;
+    background-color:gainsboro;
+}
+#ff{
+    margin-top: 5px;
+    border-style: none;
+    padding: 10 20 10 20;
+    background-color: darkcyan;
+}
+#ff:hover{
+    background-color: gray;
+}
+#eee{
+    position: absolute;
+    width: 170px;
+    height: 8px;
+    background-color: black;
+    margin-top: -291px;
+}
+#vili{
+    background-color: gray;
+    color: white;
+    width: 100%;
+    height: 50px;
+}
+#ronaldo{
+    color: gray;
+    margin-top: -20px;
+}
+#lll{
+    width: 100%;
+    height: 45px;
+    background-color:gainsboro;
+}
+#kkl{
+    margin-top: 5px;
+    border-style: none;
+    padding: 10 20 10 20;
+    background-color: darkcyan;
+}
+#kkl:hover{
+    background-color: gray;
+}
+#qwe{
+    position: absolute;
+    width: 170px;
+    height: 8px;
+    background-color: gray;
+    margin-top: -291px;
+}
+#bezi{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 50px;
+}
+#messi{
+    color: gray;
+    margin-top: -20px;
+}
+#iii{
+    width: 100%;
+    height: 45px;
+    background-color:gainsboro;
+}
+#uyu{
+    margin-top: 5px;
+    border-style: none;
+    padding: 10 20 10 20;
+    background-color: darkcyan;
+}
+#uyu:hover{
+    background-color: gray;
+}
+#zxz{
+    position: absolute;
+    width: 170px;
+    height: 8px;
+    background-color: black;
+    margin-top: -291px;
+}
+#topak{
+    margin-top: 25px;
+    width: 100%;
+    height: 700px;
+    background-color:gainsboro;
+}
+#eminem{
+    margin-left: 5px;
+    background-color: gainsboro;
+    width: 200px;
+    height: 100%;
+}
+u{
+    margin-top: 10px;
+    color: darkcyan;
+}
+#mmm{
+    color: black;
+}
+#nn{
+    font-size: 20px;
+}
+/*
+&#9993 پیام
+&#127968 خانه
+&#128222 تلفن
+*/
+#cj{
+    position: absolute;
+    margin-top: -686px;
+    margin-left: 200px;
+    width:30%;
+    height: 300px;
+    background-color:white;
+}
+#my{
+    background-color: black;
+    color: white;
+    padding: 10 20 10 20;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -35px;
+}
+#my:hover{
+    background-color: gray;
+    color: black;
+    border-style: none;
+}
+.asd:focus{
+    width: 300px;
+}
+#vs{
+    position: absolute;
+    width: 559px;
+    height: 400px;
+    margin-top: -370px;
+}
+#psg{
+    margin-top: 30px;
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+}
+#ffff{
+    color: white;
+}
+#mr{
+    position: absolute;
+    padding: 15 20 15 20;
+    background-color: darkcyan;
+    color: white;
+    margin-left: -95px;
+    text-decoration: none;
+    font-size: 30px;
+}
+#ahmadi{
+    position: absolute;
+    padding: 15 25 15 25;
+    background-color: darkcyan;
+    color: white;
+    margin-left: -30px;
+    text-decoration: none;
+    font-size: 30px;
+}
+#ak{
+    position: absolute;
+    padding: 15 20 15 20;
+    background-color: darkcyan;
+    color: white;
+    margin-left: 35px;
+    text-decoration: none;
+    font-size: 30px;
+}
+#ak:hover{
+    background-color: gray;
+    color: black;
+}
+#ahmadi:hover{
+    background-color: gray;
+    color: black;
+}
+#mr:hover{
+    background-color: gray;
+    color: black;
+}
+#rrrr{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 220px;
+    color: white;
+}
+#boy{
+    color: white;
+}
+#putak{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    color: black;
+    background-color: white;
+    position: absolute;
+    font-size: 10px;
+    margin-left: 230px;
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
