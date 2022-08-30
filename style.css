@@ -343,3 +343,30 @@ u{
     text-decoration: none;
     font-size: 20px;
 }
+.lkjh{
+    padding: 4px;
+}
+.babr{
+    padding: 4px;
+}
+#cj:hover{
+    box-shadow: 0px 0px 5px 5px gray;
+}
+#jjjj{
+    position: absolute;
+    margin-left: -35px;
+    margin-top: 15px;
+}
+#mmmm{
+    position: absolute;
+    margin-left: -47px;
+    margin-top: 15px;
+}
+#hiden{
+    position: absolute;
+    margin-left: -65px;
+    margin-top: 15px;
+}
+#cj{
+    margin-top:-695px;
+}
